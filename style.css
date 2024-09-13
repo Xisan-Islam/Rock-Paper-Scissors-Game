@@ -105,6 +105,7 @@ h1{
 
 /**Let's make the game responsive***/
 
+
 @media (max-width: 800px){
 
      .option img{
@@ -158,20 +159,6 @@ h1{
         margin-top: 3rem;
      }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
